@@ -1,2 +1,4 @@
-# ysg03updater
-updater for YSG03 2022
+#YSG03updater
+Updater for YSG03 2022
+For Android 9 and newer versions
+Only APK 
